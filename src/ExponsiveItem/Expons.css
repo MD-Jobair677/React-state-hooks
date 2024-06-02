@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+.expons-item{
+    color: aliceblue;
+    background-color: darkblue;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.insurance{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    border: 4px solid ;
+    border-radius: 2px;
+    border-color: blue;
+}
